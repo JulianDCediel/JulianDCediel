@@ -21,7 +21,7 @@ Sistema completo para una pastelería con funcionalidades para clientes y admini
 - Panel administrativo con gráficas, ingresos y reportes PDF
 - Desarrollado con Django, HTML, CSS, JavaScript, PostgreSQL
 
-🔗 Repositorio: https://github.com/JulianDCediel/PasteleriaMorita
+🔗 Repositorio: github.com/JulianDCediel/PasteleriaMorita
 
 ## 📫 ¿Cómo contactarme?
 
